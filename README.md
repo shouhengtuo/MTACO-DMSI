@@ -1,3 +1,4 @@
 # MTACO-DMSI
- A novel Multitasking Ant colony optimization method  for detecting multi-order SNP interactions.
- This paper is under review. The files MTAco.p and Transfer2.p will be decoded after it is accepted.
+Tuo S, Li C, Liu F, Zhu Y, Chen T, Feng Z, Liu H, Li A. A Novel Multitasking Ant Colony Optimization Method for Detecting Multiorder SNP Interactions. Interdiscip Sci. 2022 Jul 5. doi: 10.1007/s12539-022-00530-2. Epub ahead of print. PMID: 35788965.
+
+The MTACO-DMSI algorithm is implemented using Matlab and Python, respectively.
